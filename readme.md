@@ -1,3 +1,5 @@
+# Gender-and-Age
+
 Gender and age prediction using deep learning is a task that involves training a model to accurately predict the gender and age of individuals based on their facial images. This is achieved by leveraging the power of deep learning algorithms, specifically convolutional neural networks (CNNs), which are capable of learning intricate patterns and features from images.
 
 The dataset used for gender and age prediction typically consists of a large collection of facial images labeled with the corresponding gender and age information. These images may be sourced from various databases or collected specifically for this task. The dataset should ideally encompass a diverse range of individuals, covering different genders, ages, ethnicities, and variations in facial appearances.
